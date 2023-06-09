@@ -1,1 +1,4 @@
 .vscode
+
+# macOS shenanigans
+.DS_Store

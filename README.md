@@ -1,13 +1,11 @@
 # Welcome
 I am not a web developer. My website will be ugly. 
 
-Created: Saturday, December 3, 2022
+I graduated in May 2023 from Engineering Science (physics specialization) from the University of Toronto. I took the least amount of physics courses possible, and cherry-picked the ECE courses that I liked.
 
-following guide here: https://jekyllrb.com/docs/step-by-step/01-setup/
-- need to install ruby with dev environment: `sudo apt install ruby-full`
-- VSCode extensions "Liquid" and "Jekyll Snippets" help
-    - for liquid, disable formatting --> can get annoying
+My interests are:
+1. VLSI, semiconductor physics, wireless systems, electromagnetics
+2. computational methods (ex. simulating the above interests)
+3. embedded systems (ex. firmware that runs on a microwave)
 
-- don't use `sudo apt install jekyll`
-    - you'll get a lot of dependency not found errors
-- use this instead: https://jekyllrb.com/docs/installation/ubuntu/ 
+![a professional photo](images/liyongda.jpg)
