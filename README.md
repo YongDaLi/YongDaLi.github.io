@@ -16,6 +16,7 @@ My current interests are:
 [food](https://photos.app.goo.gl/CGwjosAJovxjep1J6)
 
 ## Obligatory professional photo
+
 ![a professional photo](images/liyongda.jpg)
 
 [a fun photo](images/toronto.jpg)
