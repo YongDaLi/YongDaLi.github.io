@@ -8,7 +8,7 @@ I will be pursing a Master's degree in Electrical Engineering and Information Te
 My current interests are:
 1. VLSI, semiconductor physics, wireless systems, electromagnetics
 2. computational methods (ex. simulating the above interests)
-3. embedded systems (ex. firmware that runs on a microwave)
+3. embedded systems (ex. microcontrollers and FPGAs, so I'm employable in the short-term)
 
 ## Links
 [CV](files/cv_liyongda.pdf) \
