@@ -10,7 +10,12 @@ My current interests are:
 2. computational methods (ex. simulating the above interests)
 3. embedded systems (ex. firmware that runs on a microwave)
 
+## Links
 [CV](files/cv_liyongda.pdf) \
+[undergraduate thesis](files/liyongda_final_thesis_report.pdf) \
 [food](https://photos.app.goo.gl/CGwjosAJovxjep1J6)
 
+## Obligatory professional photo
 ![a professional photo](images/liyongda.jpg)
+
+[a fun photo](images/toronto.jpg)
