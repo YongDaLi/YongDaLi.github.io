@@ -23,4 +23,4 @@ My current interests are:
 
 ## Contact
 main: `yongdali314 at gmail.com` \
-school: `yongli at ehz.ch`
+school: `yongli at ethz.ch`
