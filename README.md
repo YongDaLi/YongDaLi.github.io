@@ -1,5 +1,5 @@
 # Welcome
-I am not a web developer. My website will be ugly. 
+I am not a web developer. My website will be simple. 
 
 I graduated in May 2023 from Engineering Science (physics specialization) from the University of Toronto. I took the least amount of physics courses possible, and cherry-picked the ECE courses that I liked.
 
