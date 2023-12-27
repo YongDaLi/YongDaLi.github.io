@@ -11,6 +11,7 @@ My current interests are:
 3. embedded systems (ex. microcontrollers and FPGAs, so I'm employable in the short-term)
 
 ## Links
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=0ZKenDkAAAAJ) (it's pretty barren here) \
 [CV](files/cv_liyongda.pdf) \
 [undergraduate thesis](files/liyongda_final_thesis_report.pdf) \
 [food](https://photos.app.goo.gl/CGwjosAJovxjep1J6)
