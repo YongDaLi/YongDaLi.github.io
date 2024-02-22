@@ -1,7 +1,7 @@
 # Welcome
 I am not a web developer. My website will be simple. 
 
-I graduated in May 2023 from Engineering Science (physics specialization) from the University of Toronto. I took the least amount of physics courses possible, and cherry-picked the ECE courses that I liked.
+I graduated in May 2023 from Engineering Science (physics specialization) from the University of Toronto. I took the least amount of physics courses possible, and cherry-picked the electrical engineering courses that I liked. My background is in solid state physics, as applied to semiconductors
 
 I am pursing a Master's degree in Electrical Engineering and Information Technology at ETH Zurich (2023 - 2025).
 
