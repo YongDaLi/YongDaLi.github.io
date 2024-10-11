@@ -3,7 +3,7 @@ I am not a web developer. My website will be simple.
 
 I graduated in May 2023 from Engineering Science (physics specialization) from the University of Toronto. I took the least amount of physics courses possible, and cherry-picked the electrical engineering courses that I liked. Depending on the job, I tell people I'm either a simulations guy or a hardware/embedded engineer.
 
-I am pursing a Master's degree in Electrical Engineering and Information Technology at ETH Zurich (2023 - 2025). My research interest is electromagnetic simulations, especially in the context of next-generation wireless communications. I enjoy working both at the device level (carrier transport) as well as the IC level (signal integrity), using both custom written solvers and commercial tools (ex. KeySight ADS). 
+I am pursing a Master's degree in Electrical Engineering and Information Technology at ETH Zurich (2023 - 2025). My research interest is electromagnetic simulations, especially in the context of next-generation wireless communications. I enjoy working both at the device level (carrier transport) as well as the IC level (signal integrity), using both custom written solvers and commercial tools (ex. Sentaurus, KeySight ADS). 
 
 At Intel, I worked on the software program management team for Intel/Altera's structured ASIC business. I coordinated bug priority, timelines, and budgets with cross-functional teams. I also created the initial version of the software development plan for a next-generation product. As I was leaving, I trained 4 full-time new-hires and 3 interns onto the team. During my 4th year of undergrad, I switched to part-time work at Intel as a CI/CD software engineer.
 
