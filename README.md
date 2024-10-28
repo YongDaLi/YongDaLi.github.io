@@ -7,7 +7,7 @@ I am pursing a Master's degree in Electrical Engineering and Information Technol
 
 At Intel, I worked on the software program management team for Intel/Altera's structured ASIC business. I coordinated bug priority, timelines, and budgets with cross-functional teams. I also created the initial version of the software development plan for a next-generation product. As I was leaving, I trained 4 full-time new-hires and 3 interns onto the team. During my 4th year of undergrad, I switched to part-time work at Intel as a CI/CD software engineer.
 
-I also have a few random "jack of all trades, master of none" skills from various projects and design team experiences
+I also have a few random "jack of all trades, master of none" skills from various projects and design team experiences:
 - high-frequency microwave circuit design (KeySight ADS)
 - digital circuit design (Cadence Virtuoso)
 - STM32 firmware development
