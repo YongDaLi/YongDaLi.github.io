@@ -24,11 +24,11 @@ I also have a few random "jack of all trades, master of none" skills from variou
 When I'm not working, you can find me playing [ultimate frisbee](images/ultimate.jpg), [volleyball](images/volleyball.jpeg), or [hiking](images/hiking.jpg).
 
 ## Links
-|topic | details |
--------|---------|
+| topic | details |
+|-------|---------|
 | [Google Scholar](https://scholar.google.com/citations?hl=en&user=0ZKenDkAAAAJ) | no publications within my research field, only conference papers associated with the CubeSat team at the University of Toronto |
-| [CV](files/cv_liyongda.pdf) |summer 2023|
-| [undergraduate thesis](files/liyongda_final_thesis_report.pdf) |computational electromagnetics supervised by Prof. Piero Triverio |
+| [CV](files/cv_liyongda.pdf) | summer 2023 |
+| [undergraduate thesis](files/liyongda_final_thesis_report.pdf) | computational electromagnetics supervised by Prof. Piero Triverio |
 | [food](https://photos.app.goo.gl/CGwjosAJovxjep1J6) | I am an avid cook |
 
 ## Obligatory professional photo
