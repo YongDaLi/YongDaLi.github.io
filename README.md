@@ -24,6 +24,7 @@ I also have a few random "jack of all trades, master of none" skills from variou
 When I'm not working, you can find me playing [ultimate frisbee](images/ultimate.jpg), [volleyball](images/volleyball.jpeg), or [hiking](images/hiking.jpg).
 
 ## Links
+
 | topic | details |
 |-------|---------|
 | [Google Scholar](https://scholar.google.com/citations?hl=en&user=0ZKenDkAAAAJ) | no publications within my research field, only conference papers associated with the CubeSat team at the University of Toronto |
