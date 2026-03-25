@@ -28,7 +28,7 @@ When I'm not working, you can find me playing [ultimate frisbee](images/ultimate
 | topic | details |
 |-------|---------|
 | [Google Scholar](https://scholar.google.com/citations?hl=en&user=0ZKenDkAAAAJ) | no publications within my research field, only conference papers associated with the CubeSat team at the University of Toronto |
-| [CV](files/cv_liyongda.pdf) | summer 2023 |
+| [CV](files/cv_liyongda.pdf) | spring 2026 |
 | [undergraduate thesis](files/liyongda_final_thesis_report.pdf) | computational electromagnetics supervised by Prof. Piero Triverio |
 | [food](https://photos.app.goo.gl/CGwjosAJovxjep1J6) | I am an avid cook |
 
