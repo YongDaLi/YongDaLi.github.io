@@ -42,6 +42,7 @@ When I'm not working, you can find me playing [ultimate frisbee](images/ultimate
 | [Google Scholar](https://scholar.google.com/citations?hl=en&user=0ZKenDkAAAAJ) | no publications within my research field, only conference papers associated with the CubeSat team at the University of Toronto |
 | [CV](files/cv_liyongda.pdf) | spring 2026 |
 | [undergraduate thesis](files/liyongda_final_thesis_report.pdf) | computational electromagnetics supervised by Prof. Piero Triverio |
+| [master's thesis](files/liyongda_msc_thesis_submitted.pdf) | non-uniform Fourier transforms in quantum transport simulations, supervised by Prof. Mathieu Luisier |
 | [food](https://photos.app.goo.gl/CGwjosAJovxjep1J6) | I am an avid cook |
 
 ## Obligatory professional photo
